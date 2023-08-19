@@ -4,7 +4,7 @@ AutoRenamer is a shell script that rename files and directories using charactere
 
 The script also contains backup and logging features.
 
-## How to use
+## How to use 
 
 1 - Open bash (linux) or GitBash (Windows) and execute the script with the target directory as parameter
 
